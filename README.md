@@ -1,4 +1,4 @@
-My studying projects
+Links to my studying projects:
 https://startling-profiterole-63c56a.netlify.app/
 https://inspire-me-food.netlify.app/
 https://gift-ideas-list.netlify.app/
